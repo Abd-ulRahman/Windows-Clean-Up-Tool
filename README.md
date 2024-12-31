@@ -1,5 +1,5 @@
 # Windows-Clean-Up-Tool 
-## Cleanup and Speed up your pc each time on start up
+## Clean and Speed up your pc each time on start up
 I do recommend a Task Scheduler to run on startup -> a short cut of this tool after assigning it to run as adminstrator (As follow)
 ![0](https://github.com/user-attachments/assets/871649ab-8752-4581-bd87-6de2844346d3)
 ![1](https://github.com/user-attachments/assets/c2afc8db-6e1b-4c3a-a5a0-29a8e3f74d1d)
